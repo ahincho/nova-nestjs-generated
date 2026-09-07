@@ -20,10 +20,10 @@ target group.
 ## Tres dependencias, todas de la plataforma
 
 ```json
-"dependencies":    { "@ahincho/nova-nestjs": "^0.13.0" },
+"dependencies":    { "@ahincho/nova-nestjs": "^0.14.1" },
 "devDependencies": {
-  "@ahincho/nova-nestjs-schematics": "^0.13.0",
-  "@ahincho/nova-nestjs-toolchain": "^0.13.0"
+  "@ahincho/nova-nestjs-schematics": "^0.14.1",
+  "@ahincho/nova-nestjs-toolchain": "^0.14.1"
 }
 ```
 
